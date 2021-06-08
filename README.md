@@ -14,7 +14,7 @@ where: `P` is the principal amount borrowed, `A` is the periodic amortization pa
 
 ## Preview
 
-<img src="assets/preview.gif" width= 300/>
+<img src="https://github.com/amitmishra7/emi_calculator/blob/master/assets/Preview.gif" width= 300/>
 
 ## EMI calculation on the basis of years
 
