@@ -51,11 +51,11 @@ class _MyHomePageState extends State<MyHomePage> {
               _buildTextField(
                   controller: _loanAmountController,
                   trailingWidget1: _buildRupeeIcon()),
-              _buildTitleText('Interest Rate (%)'),
+              _buildTitleText('Interest Rate'),
               _buildTextField(
                   controller: _interestRateController,
                   trailingWidget1: _buildInterestIcon()),
-              _buildTitleText('Loan Tenure (in months)'),
+              _buildTitleText('Loan Tenure'),
               _buildTextField(
                   controller: _tenureController,
                   trailingWidget1: _buildYearIcon(),
