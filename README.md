@@ -7,7 +7,7 @@ An `Equated Monthly Installment (EMI)` is defined by Investopedia as "A fixed pa
 
 The formula used to calculate EMI is
 
-<img src="assets/formula.png" width= 200/>
+<img src="https://github.com/amitmishra7/emi_calculator/blob/master/assets/formula.png" width= 200/>
 
 where: `P` is the principal amount borrowed, `A` is the periodic amortization payment, `r` is the annual interest rate divided by 100 (annual interest rate also divided by 12 in case of monthly installments), and `n` is the total number of payments (for a 5-year loan with monthly payments n = 5 × 12 = 60).
 
